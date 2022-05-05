@@ -2,7 +2,8 @@
 /**
  * Plugin Name: Mission Control
  * Description: Various dev tools for Gravity Forms
- * Version: 1.0.1
+ * GitHub Plugin URI: faction23/mission-control
+ * Version: 1.0.3
  * Author: Ryan Urban, Samuel Estok
  **/
 
